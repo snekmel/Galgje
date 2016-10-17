@@ -1,0 +1,9 @@
+C:\Users\Lars Lemkens\Documents\Visual Studio 2015\Projects\les 7\Galgje\bin\Debug\Galgje.exe.config
+C:\Users\Lars Lemkens\Documents\Visual Studio 2015\Projects\les 7\Galgje\bin\Debug\Galgje.exe
+C:\Users\Lars Lemkens\Documents\Visual Studio 2015\Projects\les 7\Galgje\bin\Debug\Galgje.pdb
+C:\Users\Lars Lemkens\Documents\Visual Studio 2015\Projects\les 7\Galgje\obj\Debug\Galgje.Form1.resources
+C:\Users\Lars Lemkens\Documents\Visual Studio 2015\Projects\les 7\Galgje\obj\Debug\Galgje.Properties.Resources.resources
+C:\Users\Lars Lemkens\Documents\Visual Studio 2015\Projects\les 7\Galgje\obj\Debug\Galgje.csproj.GenerateResource.Cache
+C:\Users\Lars Lemkens\Documents\Visual Studio 2015\Projects\les 7\Galgje\obj\Debug\Galgje.exe
+C:\Users\Lars Lemkens\Documents\Visual Studio 2015\Projects\les 7\Galgje\obj\Debug\Galgje.pdb
+C:\Users\Lars Lemkens\Documents\Visual Studio 2015\Projects\les 7\Galgje\obj\Debug\Galgje.csprojResolveAssemblyReference.cache
